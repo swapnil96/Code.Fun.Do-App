@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="App2.Instructions2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:Name="background" Source="Assets/background1.jpg" HorizontalAlignment="Left" Height="758" VerticalAlignment="Top" Width="1346" Margin="10,10,0,0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="87,62,0,0" TextWrapping="Wrap" Text="Objective" VerticalAlignment="Top" Height="95" Width="300" Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" FontSize="66.667" FontFamily="Myriad Pro" Foreground="#FF59C5BB" BorderThickness="0" SelectionHighlightColor="{x:Null}">
+            <TextBox.Projection>
+                <PlaneProjection RotationX="-4.959" RotationY="-31.502" RotationZ="5.07"/>
+            </TextBox.Projection>
+        </TextBox>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="244,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="395" Width="928" FontSize="29.333" FontFamily="Adobe Gothic Std B" SelectionHighlightColor="#FF4617B4">
+        	<Run Text="The Objective is as simple as it gets!"/>
+        	<LineBreak/>
+            <Run Text="You have to collect as many balls as possible in matching containers." FontWeight="SemiBold" FontStyle="Italic"/>
+        	<LineBreak/>
+        	<LineBreak/>
+            <Run Text="Scoring - "/>
+        	<LineBreak/>
+        	<Run Text="1. Catching matching colored balls (matching with the buckets) will add 1 to you Score"/>
+            <LineBreak/>
+            <Run Text="2. Wrong pair will NOT result in negative marking but neither will contribute positively to your Score"/>
+            <LineBreak/>
+        </TextBlock>
+        <Image x:Name="forward" Source="Assets/arrow.png" HorizontalAlignment="Left" Height="78" Margin="1202,640,0,0" VerticalAlignment="Top" Width="100" PointerPressed="next_page"/>
+        <Image x:Name="backward" Source="Assets/arrow_reverse.png" HorizontalAlignment="Left" Height="78" Margin="97,640,0,0" VerticalAlignment="Top" Width="100" PointerPressed="prev_page"/>
+
+    </Grid>
+</Page>

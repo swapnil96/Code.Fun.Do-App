@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUFFY1012</Machine>
+    <WindowsUser>suyash1212</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>60ae41e5-92cc-4ec9-a7d0-ace070e5083b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CED5529F35053887523F2503EFE7D1FBE8A349C5ED1578B341D423DC6789CDF6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>60ae41e5-92cc-4ec9-a7d0-ace070e5083b_1.0.0.2_neutral__c6jv2h82yg55y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>60ae41e5-92cc-4ec9-a7d0-ace070e5083b_c6jv2h82yg55y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>60ae41e5-92cc-4ec9-a7d0-ace070e5083b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=manasj</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-01T17:08:23.054</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.exe">
+      <PackagePath>Color_Mania.Windows.exe</PackagePath>
+      <Modified>2016-02-01T17:08:22.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-12-10T12:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-12-10T12:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\arrow.png">
+      <PackagePath>Assets\arrow.png</PackagePath>
+      <Modified>2016-01-30T22:42:30.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\arrow_reverse.png">
+      <PackagePath>Assets\arrow_reverse.png</PackagePath>
+      <Modified>2016-01-30T22:42:30.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash-100.png">
+      <PackagePath>Assets\Splash-100.png</PackagePath>
+      <Modified>2016-01-31T18:58:16.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash-140.png">
+      <PackagePath>Assets\Splash-140.png</PackagePath>
+      <Modified>2016-01-31T18:57:47.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash-180.png">
+      <PackagePath>Assets\Splash-180.png</PackagePath>
+      <Modified>2016-01-31T18:56:51.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash.scale-100.png">
+      <PackagePath>Assets\Splash.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T18:58:16.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash.scale-140.png">
+      <PackagePath>Assets\Splash.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T18:57:47.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Splash.scale-180.png">
+      <PackagePath>Assets\Splash.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-31T18:56:51.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\blue.png">
+      <PackagePath>blue.png</PackagePath>
+      <Modified>2016-01-30T18:58:36.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\blue_ball.png">
+      <PackagePath>blue_ball.png</PackagePath>
+      <Modified>2016-01-30T19:09:53.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\green.png">
+      <PackagePath>green.png</PackagePath>
+      <Modified>2016-01-30T18:58:53.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\green_ball.png">
+      <PackagePath>green_ball.png</PackagePath>
+      <Modified>2016-01-30T19:10:06.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\home.png">
+      <PackagePath>home.png</PackagePath>
+      <Modified>2016-01-31T01:42:12.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\orange.png">
+      <PackagePath>orange.png</PackagePath>
+      <Modified>2016-01-30T18:59:15.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\orange_ball.png">
+      <PackagePath>orange_ball.png</PackagePath>
+      <Modified>2016-01-30T19:10:20.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+      <Modified>2016-01-30T21:34:24.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\purple.png">
+      <PackagePath>purple.png</PackagePath>
+      <Modified>2016-01-30T18:59:41.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\purple_ball.png">
+      <PackagePath>purple_ball.png</PackagePath>
+      <Modified>2016-01-30T19:10:39.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\red.png">
+      <PackagePath>red.png</PackagePath>
+      <Modified>2016-01-30T19:00:05.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\red_ball.png">
+      <PackagePath>red_ball.png</PackagePath>
+      <Modified>2016-01-30T19:11:11.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\restart.png">
+      <PackagePath>restart.png</PackagePath>
+      <Modified>2016-01-30T22:08:42.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\start.png">
+      <PackagePath>start.png</PackagePath>
+      <Modified>2016-01-30T21:46:03.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\yellow.png">
+      <PackagePath>yellow.png</PackagePath>
+      <Modified>2016-01-30T19:00:19.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\yellow_ball.png">
+      <PackagePath>yellow_ball.png</PackagePath>
+      <Modified>2016-01-30T19:11:30.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\background1.jpg">
+      <PackagePath>Assets\background1.jpg</PackagePath>
+      <Modified>2016-01-30T22:42:30.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background.jpg">
+      <PackagePath>background.jpg</PackagePath>
+      <Modified>2016-01-28T18:59:15.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_2.jpg">
+      <PackagePath>background_2.jpg</PackagePath>
+      <Modified>2016-01-31T00:01:33.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_3.jpg">
+      <PackagePath>background_3.jpg</PackagePath>
+      <Modified>2016-01-31T00:01:45.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_4.jpg">
+      <PackagePath>background_4.jpg</PackagePath>
+      <Modified>2016-01-31T00:02:38.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_5.jpg">
+      <PackagePath>background_5.jpg</PackagePath>
+      <Modified>2016-01-31T00:02:47.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\Main_Img.jpg">
+      <PackagePath>Main_Img.jpg</PackagePath>
+      <Modified>2016-01-30T16:48:12.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\text.jpg">
+      <PackagePath>text.jpg</PackagePath>
+      <Modified>2016-01-30T10:17:37.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.xr.xml">
+      <PackagePath>Color_Mania.Windows.xr.xml</PackagePath>
+      <Modified>2016-02-01T17:08:22.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\About_Us.xbf">
+      <PackagePath>About_Us.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+      <Modified>2016-02-01T17:08:22.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\High_Score.xbf">
+      <PackagePath>High_Score.xbf</PackagePath>
+      <Modified>2016-02-01T17:08:22.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions2.xbf">
+      <PackagePath>Instructions2.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions3.xbf">
+      <PackagePath>Instructions3.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\level.xbf">
+      <PackagePath>level.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Option.xbf">
+      <PackagePath>Option.xbf</PackagePath>
+      <Modified>2016-01-31T18:08:20.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-01T17:08:22.864</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="App2.Game"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1366"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="bcg" Stretch="Fill" Source="background_5.jpg" HorizontalAlignment="Left" Width="1366" Margin="0,10,0,-10"/>
+
+        <Image x:Name="blue" Source="blue_ball.png" Visibility="Collapsed"/>
+        <Image x:Name="green" Source="green_ball.png" Visibility="Collapsed" />
+        <Image x:Name="red" Source="red_ball.png" Visibility="Collapsed" />
+        <Image x:Name="yellow" Source="yellow_ball.png" Visibility="Collapsed" />
+        <Image x:Name="orange" Source="orange_ball.png" Visibility="Collapsed" />
+        <Image x:Name="purple" Source="purple_ball.png" Visibility="Collapsed" />
+        <Image x:Name="start_img" Source="start.png" Visibility="Collapsed" />
+        <Image x:Name="pause_img" Source="pause.png" Visibility="Collapsed" />
+        <Image x:Name="restat_img" Source="restart.png" Visibility="Collapsed" />
+
+        <Image x:ConnectionId='1' x:Name="cont_1" HorizontalAlignment="Left" Height="150" Margin="10,600,0,0" VerticalAlignment="Top" Width="150" Source="yellow.png"                                  Tag="1"/>
+        <Image x:ConnectionId='2' x:Name="cont_2" HorizontalAlignment="Left" Height="150" Margin="206,600,0,0" VerticalAlignment="Top" Width="150" Source="blue.png"                                  Tag="2"/>
+        <Image x:ConnectionId='3' x:Name="cont_3" HorizontalAlignment="Left" Height="150" Margin="398,600,0,0" VerticalAlignment="Top" Width="150" Source="orange.png"                                  Tag="3"/>
+        <Image x:ConnectionId='4' x:Name="cont_4" HorizontalAlignment="Left" Height="150" Margin="602,600,0,0" VerticalAlignment="Top" Width="150" Source="green.png"                                  Tag="4"/>
+        <Image x:ConnectionId='5' x:Name="cont_5" HorizontalAlignment="Left" Height="150" Margin="818,600,0,0" VerticalAlignment="Top" Width="150" Source="purple.png"                                  Tag="5"/>
+        <Image x:ConnectionId='6' x:Name="cont_6" HorizontalAlignment="Left" Height="150" Margin="1026,600,0,0" VerticalAlignment="Top" Width="150" Source="red.png"                                  Tag="6"/>
+
+        <TextBlock x:Name="textBlock_6" TextWrapping="Wrap" Text="TextBlock" Height="36" Width="54" Margin="432,269,880,463" FontSize="26.667" FontWeight="Bold" TextAlignment="Center" Foreground="#FFFFFFFF" SelectionHighlightColor="#FF50B417" Visibility="Collapsed"/>
+        <TextBlock x:Name="textBlock_5" TextWrapping="Wrap" Text="TextBlock" Visibility="Collapsed" Foreground="#FFFFFFFF" TextAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock_1" TextWrapping="Wrap" Text="TextBlock" Visibility="Collapsed" TextAlignment="Center" Foreground="#FFFFFFFF" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock_2" TextWrapping="Wrap" Text="TextBlock" Visibility="Collapsed" TextAlignment="Center" Foreground="#FFFFFFFF" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock_3" TextWrapping="Wrap" Text="TextBlock" Visibility="Collapsed" TextAlignment="Center" Foreground="#FFFFFFFF" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock_4" TextWrapping="Wrap" Text="TextBlock" Visibility="Collapsed" TextAlignment="Center" Foreground="#FFFFFFFF" FontWeight="Bold"/>
+
+        <Border x:Name="Image_Border" BorderBrush="#FF25D85E" BorderThickness="10" Height="150" Width="150" Margin="930,600,286,18" Visibility="Collapsed"/>
+
+        <Ellipse x:Name="falling_elem" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="70" Margin="538,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="75" Visibility="Collapsed"/>
+        <Rectangle x:Name="Pause_window" HorizontalAlignment="Left" Height="342" Margin="282,205,0,0" Stroke="Black" VerticalAlignment="Top" Width="798" Opacity="0.4" Visibility="Collapsed">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF2DE8FB" Offset="1"/>
+                    <GradientStop Color="#FF0E4B52" Offset="0.053"/>
+                    <GradientStop Color="#FF23B5C4" Offset="0.717"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image x:ConnectionId='7' x:Name="Menu_Restart" HorizontalAlignment="Left" Height="97" Margin="432,409,0,0" VerticalAlignment="Top" Width="97" Visibility="Visible"                                   Source="restart.png"/>
+        <Image x:ConnectionId='8' x:Name="Menu_Exit" HorizontalAlignment="Left" Height="97" Margin="771,409,0,0" VerticalAlignment="Top" Width="97" Visibility="Visible"                            Source="home.png"/>
+
+        <Canvas Name="Game_Canvas">
+        </Canvas>
+        <TextBlock x:Name="Timer_Box" HorizontalAlignment="Left" Height="70" Margin="1232,74,0,0" TextWrapping="Wrap" Text="Timer" VerticalAlignment="Top" Width="124" Foreground="#FF060606" FontSize="42.667" FontWeight="Bold" FontFamily="Moire ExtraBold"/>
+        <TextBlock x:Name="Score_Box" HorizontalAlignment="Left" Height="85" Margin="1176,0,0,506" TextWrapping="Wrap" Text="Score -" VerticalAlignment="Bottom" Width="180" Foreground="#FF060606" FontSize="37.333" FontWeight="Bold" TextAlignment="Center"/>
+        <Image x:ConnectionId='9' x:Name="Pause_Button" HorizontalAlignment="Left" Height="88" Margin="1274,349,0,0" VerticalAlignment="Top" Width="82" Source="start.png"                                />
+        <Image x:ConnectionId='10' x:Name="Restart_Button" HorizontalAlignment="Left" Height="99" Margin="1274,475,0,0" VerticalAlignment="Top" Width="82" Source="restart.png"                                  />
+        <TextBlock x:Name="Score_Final_Box" HorizontalAlignment="Left" Height="30" Margin="509,291,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="291" Foreground="#FFD6A215" TextAlignment="Center" FontSize="29.333"/>
+        <TextBlock x:Name="HighScore_Box" HorizontalAlignment="Left" Margin="432,337,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="460" Height="67" FontSize="26.667" Foreground="#FF1EB62C" TextAlignment="Center" />
+        <Image x:ConnectionId='11' x:Name="home" HorizontalAlignment="Left" Height="90" Margin="1274,600,0,0" VerticalAlignment="Top" Width="82" Source="home.png"                           />
+        <TextBlock x:Name="HS_Box" HorizontalAlignment="Left" Margin="509,243,0,0" TextWrapping="Wrap" Text="High Score - " VerticalAlignment="Top" Height="34" Width="291" Foreground="#FFF51A04" FontSize="29.333" TextAlignment="Center"/>
+
+
+    </Grid>
+</Page>
+

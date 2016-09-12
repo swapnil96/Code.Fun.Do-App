@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="App2.High_Score"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:Name="bckgrd" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="1356" Stretch="Fill" Source="background.jpg"/>
+        <TextBlock x:Name="HighScores_Box" HorizontalAlignment="Left" Margin="568,195,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="306" Height="381" FontSize="48" FontFamily="Harrington" Foreground="#FFFFF300"/>
+        <Image x:ConnectionId='1' x:Name="back_hs" HorizontalAlignment="Left" Height="100" Margin="619,619,0,0" VerticalAlignment="Top" Width="100" Source="Assets/arrow_reverse.png"                                        />
+        <TextBlock x:Name="heading" HorizontalAlignment="Left" Margin="461,0,0,638" TextWrapping="Wrap" Text="High Scores" VerticalAlignment="Bottom" Width="413" Height="78" Foreground="#FF04F7AA" FontSize="66.667" FontWeight="Bold" FontFamily="Copperplate Gothic Bold" TextAlignment="Center"/>
+
+    </Grid>
+</Page>
+

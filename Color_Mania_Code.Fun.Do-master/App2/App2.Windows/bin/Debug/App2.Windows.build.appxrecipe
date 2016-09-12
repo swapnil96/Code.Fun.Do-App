@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUFFY1012</Machine>
+    <WindowsUser>suyash1212</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>60ae41e5-92cc-4ec9-a7d0-ace070e5083b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\arrow.png">
+      <PackagePath>Assets\arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\arrow_reverse.png">
+      <PackagePath>Assets\arrow_reverse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\blue.png">
+      <PackagePath>blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\blue_ball.png">
+      <PackagePath>blue_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\green.png">
+      <PackagePath>green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\green_ball.png">
+      <PackagePath>green_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\home.png">
+      <PackagePath>home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\orange.png">
+      <PackagePath>orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\orange_ball.png">
+      <PackagePath>orange_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\purple.png">
+      <PackagePath>purple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\purple_ball.png">
+      <PackagePath>purple_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\red.png">
+      <PackagePath>red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\red_ball.png">
+      <PackagePath>red_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\restart.png">
+      <PackagePath>restart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\start.png">
+      <PackagePath>start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\yellow.png">
+      <PackagePath>yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\yellow_ball.png">
+      <PackagePath>yellow_ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\Assets\background1.jpg">
+      <PackagePath>Assets\background1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background.jpg">
+      <PackagePath>background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_2.jpg">
+      <PackagePath>background_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_3.jpg">
+      <PackagePath>background_3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_4.jpg">
+      <PackagePath>background_4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\background_5.jpg">
+      <PackagePath>background_5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\Main_Img.jpg">
+      <PackagePath>Main_Img.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Shared\text.jpg">
+      <PackagePath>text.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\About_Us.xbf">
+      <PackagePath>About_Us.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\High_Score.xbf">
+      <PackagePath>High_Score.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions2.xbf">
+      <PackagePath>Instructions2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions3.xbf">
+      <PackagePath>Instructions3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\level.xbf">
+      <PackagePath>level.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Option.xbf">
+      <PackagePath>Option.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

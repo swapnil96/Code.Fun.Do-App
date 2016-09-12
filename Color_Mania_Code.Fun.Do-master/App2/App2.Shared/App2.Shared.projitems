@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>c9f4c64d-e9b2-40e8-a31d-852fae5c4845</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>App2</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)background.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)background_2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)background_3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)background_4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)background_5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)blue_ball.png" />
+    <Content Include="$(MSBuildThisFileDirectory)green.png" />
+    <Content Include="$(MSBuildThisFileDirectory)green_ball.png" />
+    <Content Include="$(MSBuildThisFileDirectory)home.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Main_Img.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)orange.png" />
+    <Content Include="$(MSBuildThisFileDirectory)orange_ball.png" />
+    <Content Include="$(MSBuildThisFileDirectory)pause.png" />
+    <Content Include="$(MSBuildThisFileDirectory)purple.png" />
+    <Content Include="$(MSBuildThisFileDirectory)purple_ball.png" />
+    <Content Include="$(MSBuildThisFileDirectory)red.png" />
+    <Content Include="$(MSBuildThisFileDirectory)red_ball.png" />
+    <Content Include="$(MSBuildThisFileDirectory)restart.png" />
+    <Content Include="$(MSBuildThisFileDirectory)start.png" />
+    <Content Include="$(MSBuildThisFileDirectory)text.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)yellow.png" />
+    <Content Include="$(MSBuildThisFileDirectory)yellow_ball.png" />
+  </ItemGroup>
+</Project>

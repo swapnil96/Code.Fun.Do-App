@@ -1,0 +1,134 @@
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\App.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\About_Us.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Game.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\High_Score.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions2.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions3.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\level.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\MainPage.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Option.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\resources.pri
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\AppxManifest.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania_Win.build.appxrecipe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\App.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\App.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\level.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\level.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\App.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\level.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\App.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\level.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Color_Mania_Win.csproj.GenerateResource.Cache
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\priconfig.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\layout.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\resources.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\pri.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\qualifiers.txt
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.xr.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.exe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.pdb
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Color_Mania.Windows.exe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.Windows\obj\Debug\Color_Mania.Windows.pdb
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\App.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\About_Us.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Game.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\High_Score.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions2.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Instructions3.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\level.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\MainPage.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Option.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.xr.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.exe
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Color_Mania.Windows.pdb
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\App.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\App.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\level.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\level.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\App.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\level.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\App.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\About_Us.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Game.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\High_Score.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions2.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Instructions3.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\level.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\MainPage.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Option.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Color_Mania.Windows.exe
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.Windows\obj\Debug\Color_Mania.Windows.pdb

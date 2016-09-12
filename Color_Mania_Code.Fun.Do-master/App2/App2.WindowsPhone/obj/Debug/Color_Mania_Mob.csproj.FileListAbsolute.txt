@@ -1,0 +1,64 @@
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.xr.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.exe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.pdb
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\resources.pri
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\Color_Mania_Mob.build.appxrecipe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App2.WindowsPhone.exe
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App2.WindowsPhone.pdb
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\suyash1212\Desktop\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.xr.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.exe
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.pdb
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\resources.pri
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\bin\Debug\Color_Mania_Mob.build.appxrecipe
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App2.WindowsPhone.exe
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\App2.WindowsPhone.pdb
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\priconfig.xml
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\layout.resfiles
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\resources.resfiles
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\pri.resfiles
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Windows\Softwares\New folder\Colour_mania_start\App2\App2.WindowsPhone\obj\Debug\ProjectArchitectures.txt
